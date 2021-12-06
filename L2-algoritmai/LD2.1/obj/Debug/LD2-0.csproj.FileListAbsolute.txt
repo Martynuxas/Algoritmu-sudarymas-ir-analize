@@ -1,0 +1,5 @@
+C:\Users\Vartotojas\Desktop\L2-algoritmai\LD2.1\bin\Debug\LD2_0.exe
+C:\Users\Vartotojas\Desktop\L2-algoritmai\LD2.1\bin\Debug\LD2_0.pdb
+C:\Users\Vartotojas\Desktop\L2-algoritmai\LD2.1\obj\Debug\LD2-0.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\L2-algoritmai\LD2.1\obj\Debug\LD2_0.exe
+C:\Users\Vartotojas\Desktop\L2-algoritmai\LD2.1\obj\Debug\LD2_0.pdb
